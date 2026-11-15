@@ -2,7 +2,7 @@
 
 I build software that teams run on, and the controls that make AI trustworthy.
 
-Most of what I have built is written up at **[jacksonrhodes.dev](https://jacksonrhodes.dev)**: 32 entries, each with how it works and what went wrong.
+Most of what I have built is written up at **[jacksonrhodes.dev](https://jacksonrhodes.dev)**: 31 entries, each with how it works and what went wrong.
 
 **Work**
 
